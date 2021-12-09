@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity1209_program", "Unity1209_program\Unity1209_program.csproj", "{84B1967B-22E7-418E-84AC-2A49CD26ECBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity1209_program_Variables", "Unity1209_program_Variables\Unity1209_program_Variables.csproj", "{DA32BB16-A0F8-49E9-AB5A-24790A83BB1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B1967B-22E7-418E-84AC-2A49CD26ECBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B1967B-22E7-418E-84AC-2A49CD26ECBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B1967B-22E7-418E-84AC-2A49CD26ECBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B1967B-22E7-418E-84AC-2A49CD26ECBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA32BB16-A0F8-49E9-AB5A-24790A83BB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA32BB16-A0F8-49E9-AB5A-24790A83BB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA32BB16-A0F8-49E9-AB5A-24790A83BB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA32BB16-A0F8-49E9-AB5A-24790A83BB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C620528A-BB18-4E2F-82D3-FA0CD3D5A77D}
+	EndGlobalSection
+EndGlobal
