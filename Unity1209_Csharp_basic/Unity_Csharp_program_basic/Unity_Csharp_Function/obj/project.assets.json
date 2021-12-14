@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\Unity_Csharp_program_basic\\Unity_Csharp_Function\\Unity_Csharp_Function.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\Unity_class\\Unity1209_Csharp_basic\\Unity_Csharp_program_basic\\Unity_Csharp_Function\\Unity_Csharp_Function.csproj",
       "projectName": "Unity_Csharp_Function",
-      "projectPath": "C:\\Users\\admin\\Desktop\\Unity_Csharp_program_basic\\Unity_Csharp_Function\\Unity_Csharp_Function.csproj",
+      "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\Unity_class\\Unity1209_Csharp_basic\\Unity_Csharp_program_basic\\Unity_Csharp_Function\\Unity_Csharp_Function.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\Unity_Csharp_program_basic\\Unity_Csharp_Function\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\Unity_class\\Unity1209_Csharp_basic\\Unity_Csharp_program_basic\\Unity_Csharp_Function\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
