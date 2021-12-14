@@ -5,7 +5,7 @@ namespace Unity_Csharp_IF
     class Program
     {
         static bool condition1; // 변수나 함수는 클래스 안에서만 선언해야함
-        static bool condition2 = true;
+        static bool condition2;
         static bool condition3;
         static void Main(string[] args)
         {
