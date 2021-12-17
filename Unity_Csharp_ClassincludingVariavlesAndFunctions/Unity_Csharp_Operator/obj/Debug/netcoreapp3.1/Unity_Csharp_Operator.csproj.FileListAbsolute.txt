@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\GitHub\Unity_class\Unity_Csharp_ClassincludingVariavlesAndFunctions\Unity_Csharp_Operator\bin\Debug\netcoreapp3.1\Unity_Csharp_Operator.exe
+C:\Users\admin\Documents\GitHub\Unity_class\Unity_Csharp_ClassincludingVariavlesAndFunctions\Unity_Csharp_Operator\bin\Debug\netcoreapp3.1\Unity_Csharp_Operator.deps.json
+C:\Users\admin\Documents\GitHub\Unity_class\Unity_Csharp_ClassincludingVariavlesAndFunctions\Unity_Csharp_Operator\bin\Debug\netcoreapp3.1\Unity_Csharp_Operator.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\Unity_class\Unity_Csharp_ClassincludingVariavlesAndFunctions\Unity_Csharp_Operator\bin\Debug\netcoreapp3.1\Unity_Csharp_Operator.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\Unity_class\Unity_Csharp_ClassincludingVariavlesAndFunctions\Unity_Csharp_Operator\bin\Debug\netcoreapp3.1\Unity_Csharp_Operator.dll
+C:\Users\admin\Documents\GitHub\Unity_class\Unity_Csharp_ClassincludingVariavlesAndFunctions\Unity_Csharp_Operator\bin\Debug\netcoreapp3.1\Unity_Csharp_Operator.pdb
+C:\Users\admin\Documents\GitHub\Unity_class\Unity_Csharp_ClassincludingVariavlesAndFunctions\Unity_Csharp_Operator\obj\Debug\netcoreapp3.1\Unity_Csharp_Operator.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\Unity_class\Unity_Csharp_ClassincludingVariavlesAndFunctions\Unity_Csharp_Operator\obj\Debug\netcoreapp3.1\Unity_Csharp_Operator.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\Unity_class\Unity_Csharp_ClassincludingVariavlesAndFunctions\Unity_Csharp_Operator\obj\Debug\netcoreapp3.1\Unity_Csharp_Operator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Unity_class\Unity_Csharp_ClassincludingVariavlesAndFunctions\Unity_Csharp_Operator\obj\Debug\netcoreapp3.1\Unity_Csharp_Operator.dll
+C:\Users\admin\Documents\GitHub\Unity_class\Unity_Csharp_ClassincludingVariavlesAndFunctions\Unity_Csharp_Operator\obj\Debug\netcoreapp3.1\Unity_Csharp_Operator.pdb
+C:\Users\admin\Documents\GitHub\Unity_class\Unity_Csharp_ClassincludingVariavlesAndFunctions\Unity_Csharp_Operator\obj\Debug\netcoreapp3.1\Unity_Csharp_Operator.genruntimeconfig.cache
