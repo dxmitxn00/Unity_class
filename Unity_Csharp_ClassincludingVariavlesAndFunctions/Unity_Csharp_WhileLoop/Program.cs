@@ -37,6 +37,20 @@ namespace Unity_Csharp_WhileLoop
                 Console.WriteLine(arr_PersonName[count]);
                 count++;
             }
+
+            // break를 활용한 while문 탈출 방법
+            while (true)
+            {
+                if (count < length)
+                {
+                    Console.WriteLine(arr_PersonName[count]);
+                }
+                else
+                {
+                    break;
+                }
+                count++;
+            }
         }
     }
 }
