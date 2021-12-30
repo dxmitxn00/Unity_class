@@ -73,14 +73,34 @@ namespace Unity_Csharp_Collection
                 Console.WriteLine($"{tmpKey} : {tmpValue}");
             }
 
+            //------------------------------
+            // Queue ( List와 비슷하나 FIFO(First Input, First Output 체계)다)
+            //------------------------------
+            Queue<int> _queue = new Queue<int>();
 
-            //------------------------------
-            // Stack
-            //------------------------------
+            _queue.Enqueue(10);
+            _queue.Enqueue(20);
+            _queue.Enqueue(30);
 
-            //------------------------------
-            // Queue
-            //------------------------------
+            Console.WriteLine(_queue.Peek()); // 가장 처 번째에 있는 값을 반환
+            Console.WriteLine(_queue.Dequeue()); // Queue의 가장 첫 번째에 있는 값을 제거하고 반환
+            Console.WriteLine(_queue.Dequeue());
+            Console.WriteLine(_queue.Dequeue());
+
+            //----------------------------------------
+            // Stack ( List와 비슷하ㅏ, LIFO( Last Input, First Output 체계)다)
+            //----------------------------------------
+            Stack<int> _stack = new Stack<int>();
+
+            _stack.Push(10);
+            _stack.Push(20);
+            _stack.Push(30);
+
+            Console.WriteLine(_stack.Peek()); // 가장 마지막에 있는 값을 반환
+            Console.WriteLine(_stack.Pop());
+            Console.WriteLine(_stack.Pop());
+            Console.WriteLine(_stack.Pop());
+
 
 
         }
